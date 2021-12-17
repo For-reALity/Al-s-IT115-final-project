@@ -7,4 +7,3 @@
 
 * Thank you for reading me.
 
-- Al Hernandez
