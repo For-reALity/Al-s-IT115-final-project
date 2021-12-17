@@ -1,7 +1,7 @@
 # Al-s-IT115-final-project
 
-Hello!
+* Hello!
 
-This is a README.md file.
+* This is a README.md file.
 
-Thank you.
+* Thank you.
